@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saurabh-mk.github.io/sitemap-index.xml

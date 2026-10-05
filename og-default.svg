@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#2f2593"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <defs>
+    <radialGradient id="g" cx="78%" cy="18%" r="80%">
+      <stop offset="0%" stop-color="#4637D2" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#1a1545" stop-opacity="0.9"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#ffffff" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+  <!-- node-link motif -->
+  <g stroke="#FAB932" stroke-opacity="0.55" stroke-width="2">
+    <line x1="840" y1="150" x2="980" y2="220"/>
+    <line x1="980" y1="220" x2="940" y2="380"/>
+    <line x1="940" y1="380" x2="1080" y2="430"/>
+    <line x1="840" y1="150" x2="940" y2="380"/>
+  </g>
+  <g fill="#FAB932">
+    <circle cx="840" cy="150" r="7"/><circle cx="980" cy="220" r="9"/>
+    <circle cx="940" cy="380" r="7"/><circle cx="1080" cy="430" r="6"/>
+  </g>
+  <text x="90" y="250" font-family="Poppins, Arial, sans-serif" font-size="34" fill="#FAB932" font-weight="600" letter-spacing="3">SYNBIOAI HUB · ATRIA UNIVERSITY</text>
+  <text x="86" y="340" font-family="Poppins, Arial, sans-serif" font-size="68" fill="#ffffff" font-weight="700">AI-guided synthetic</text>
+  <text x="86" y="420" font-family="Poppins, Arial, sans-serif" font-size="68" fill="#ffffff" font-weight="700">biology</text>
+  <text x="90" y="500" font-family="Inter, Arial, sans-serif" font-size="28" fill="#cbd1de">Microbial &amp; enzyme engineering for industrial circularity</text>
+</svg>
